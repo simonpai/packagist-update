@@ -33,7 +33,7 @@ The packagist job created for your update.
 ## Example usage
 
 ```yaml
-uses: mnavarrocarter/packagist-update@v1.0
+uses: mnavarrocarter/packagist-update@v1.0.0
 with:
   username: "your-username"
   api_token: ${{ secrets.packagist_token }}
